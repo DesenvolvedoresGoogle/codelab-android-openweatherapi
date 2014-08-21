@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">Tempo Agora</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="qual_cidade_text">Para qual cidade você quer saber o tempo agora?</string>
     <string name="action_settings">Settings</string>
+    <string name="pesquisar_button">Pesquisar</string>
+    <string name="cidade_label">Cidade</string>
 
 </resources>
